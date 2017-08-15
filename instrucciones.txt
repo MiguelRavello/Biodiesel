@@ -1,0 +1,6 @@
+git checkout -b new_branch // creacion de una nueva rama
+
+git checkout new_branch // para entrar a dicha rama
+git checkout master // para retornar al master 
+
+git push -u origin new_brach // para cargar los add a la rama
